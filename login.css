@@ -25,7 +25,7 @@ body{
   border: 0;
   background: none;
   display: block;
-  margin: 20px auto;
+  margin: 30px auto;
   text-align: center;
   border: 2px solid #3498db;
   padding: 14px 10px;
@@ -37,7 +37,7 @@ body{
   transition: 0.25s;
 }
 .container input[type="text"]:focus,.container input[type="password"]:focus{
-  width: 280px;
+  width: 390px;
   border-color: #2ecc71;
 }
 .container input[type="submit"]{

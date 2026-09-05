@@ -11,13 +11,13 @@ body{
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  background: #191919;
+  background: blue;
   text-align: center;
   border-radius: 5px;
   box-shadow: 0 50px 50px;
 }
 .container h1{
-  color: white;
+  color: yellow;
   font-weight: 500;
 
 }
@@ -31,7 +31,7 @@ body{
   padding: 14px 10px;
   width: 200px;
   outline: none;
-  color: white;
+  color: yellow;
   font-size: 16px;
   border-radius: 24px;
   transition: 0.25s;
